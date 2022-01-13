@@ -328,13 +328,13 @@ body {
   border-radius: 32px !important; }
 
 .shadow-sm {
-  box-shadow: 0 0 8px rgba(154, 198, 255, 0.3); }
+  box-shadow: 0 0 8px rgba(72, 151, 255, 0.3); }
 
 .shadow-md {
-  box-shadow: 0 0 16px rgba(154, 198, 255, 0.3); }
+  box-shadow: 0 0 16px rgba(72, 151, 255, 0.3);}
 
 .shadow-lg {
-  box-shadow: 0 0 40px rgba(154, 198, 255, 0.3); }
+  box-shadow: 0 0 40px rgba(72, 151, 255, 0.3); }
 
 .overflow-x-hidden {
   overflow-x: hidden; }
