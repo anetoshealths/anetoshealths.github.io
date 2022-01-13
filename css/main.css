@@ -103,7 +103,7 @@ html {
     font-family: "SF Pro Display", "Segoe UI", "Noto Sans", "Roboto", "Helvetica", "Opensans", -apple-system, system-ui, BlinkMacSystemFont, sans-serif; }
 
 body {
-  background: #1b1919;
+  background: #ffffff;
   color: #ffffff; }
 
 /* 0.2 Helpers and Utilities */
@@ -123,13 +123,13 @@ body {
   background-color: #ffffff !important; }
 
 .bg-black {
-  background-color: #1b1919 !important; }
+  background-color: #ffffff !important; }
 
 .filter-black {
   filter: grayscale(1); }
 
 .bg-black-demo {
-  background: #2D2D2D; }
+  background: #ffffff; }
 
 .strong {
   font-weight: bold; }
@@ -328,13 +328,13 @@ body {
   border-radius: 32px !important; }
 
 .shadow-sm {
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3); }
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.3); }
 
 .shadow-md {
-  box-shadow: 0 0 16px rgba(0, 0, 0, 0.3); }
+  box-shadow: 0 0 16px rgba(255, 255, 255, 0.3); }
 
 .shadow-lg {
-  box-shadow: 0 0 40px rgba(0, 0, 0, 0.3); }
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.3); }
 
 .overflow-x-hidden {
   overflow-x: hidden; }
